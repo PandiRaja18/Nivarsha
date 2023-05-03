@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31219946448",
+    "firebase_url": "https://nivarsha-diet-recommendation-default-rtdb.firebaseio.com",
+    "project_id": "nivarsha-diet-recommendation",
+    "storage_bucket": "nivarsha-diet-recommendation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31219946448:android:f1de64781d2177415d9fd5",
+        "android_client_info": {
+          "package_name": "com.example.nivarsha_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31219946448-jaggcaodcnog7upkonqkqbehl85efqij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nivarsha_v1",
+            "certificate_hash": "7322b865b37a8bff1d4bd13208a5bc3f6ccf8c99"
+          }
+        },
+        {
+          "client_id": "31219946448-o51nhc64h7qumqmac316if8ssph1hol0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCOf_45NER_0rml1xZD_54brJxXfW-Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31219946448-o51nhc64h7qumqmac316if8ssph1hol0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
